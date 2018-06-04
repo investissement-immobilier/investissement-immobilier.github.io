@@ -1,6 +1,6 @@
 # Investissement Immobilier
 
-Les conseils pour bien investir dans l'immobilier à court, moyen et long terme.
+Investir à court, moyen et long terme.
 
 
 ## Où investir ?
