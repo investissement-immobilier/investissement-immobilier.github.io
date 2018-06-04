@@ -3,15 +3,16 @@
 Investir à court, moyen et long terme.
 
 
-## Où investir ?
+## Où et comment investir ?
 
-[Investir à paris ? L'erreur à ne pas faire](https://investissement-immobilier.github.io/investir-a-paris-erreur)
+- [Investir à paris ? L'erreur à ne pas faire](https://investissement-immobilier.github.io/investir-a-paris-erreur)
+- [La règle des 70%](https://investissement-immobilier.github.io/la-regle-des-70-pourcent)
 
 ## Le prêt avec la banque
 
-[Optimiser les frais de notaire](https://investissement-immobilier.github.io/optimiser-les-frais-de-notaire)
+- [Optimiser les frais de notaire](https://investissement-immobilier.github.io/optimiser-les-frais-de-notaire)
 
 
 ## La rentabilité
 
-[Quelle rentabilité viser ?](https://investissement-immobilier.github.io/quelle-rentabilite-viser)
+- [Quelle rentabilité viser ?](https://investissement-immobilier.github.io/quelle-rentabilite-viser)
