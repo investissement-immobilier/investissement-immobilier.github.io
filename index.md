@@ -8,3 +8,7 @@ Les conseils pour bien investir dans l'immobilier à court, moyen et long terme.
 ## Investir à Paris : Erreur
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O0ybug8LCLE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Financement qu'est-ce que la règle des 70 %?
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=2XScL2rOEJE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
