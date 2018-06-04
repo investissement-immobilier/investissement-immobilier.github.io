@@ -9,3 +9,6 @@ Les conseils pour bien investir dans l'immobilier à court, moyen et long terme.
 
 [Investir à paris ? L'erreur à ne pas faire](https://investissement-immobilier.github.io/investir-a-paris-erreur)
 
+## Le prêt avec la banque
+
+[optimiser-les frais de notaire](https://investissement-immobilier.github.io/optimiser-les-frais-de-notaire)
