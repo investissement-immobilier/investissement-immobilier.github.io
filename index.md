@@ -11,4 +11,4 @@ Les conseils pour bien investir dans l'immobilier à court, moyen et long terme.
 
 ## Le prêt avec la banque
 
-[optimiser-les frais de notaire](https://investissement-immobilier.github.io/optimiser-les-frais-de-notaire)
+[Optimiser les frais de notaire](https://investissement-immobilier.github.io/optimiser-les-frais-de-notaire)
