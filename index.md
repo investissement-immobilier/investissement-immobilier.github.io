@@ -7,6 +7,7 @@ Investir à court, moyen et long terme.
 
 - [Investir à paris ? L'erreur à ne pas faire](https://investissement-immobilier.github.io/investir-a-paris-erreur)
 - [La règle des 70%](https://investissement-immobilier.github.io/la-regle-des-70-pourcent)
+- [Pourquoi vous DEVEZ investir dans l'immobilier locatif](https://investissement-immobilier.github.io/pourquoi-investir-dans-immobilier-locatif)
 
 ## Le prêt avec la banque
 
